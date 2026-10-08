@@ -1,8 +1,9 @@
 Examen donde se tenia que resolver la siguente consulta:
 Crea una consulta SQL que muestre el nombre del usuario, el tipo de membresía y el total pagado por reservas de todos los usuarios que tengan una membresía activa.
--La consulta debe incluir al menos una unión (JOIN) entre las tablas de usuarios, membresías, pagos y reservas.
--Muestra solo a los usuarios cuyo total pagado por reservas sea mayor a 100 dólares o en cualquier coneda que se maneje en los registros.
--Ordena los resultados del mayor al menor total pagado.
+
+* La consulta debe incluir al menos una unión (JOIN) entre las tablas de usuarios, membresías, pagos y reservas.
+* Muestra solo a los usuarios cuyo total pagado por reservas sea mayor a 100 dólares o en cualquier coneda que se maneje en los registros.
+* Ordena los resultados del mayor al menor total pagado.
 
 solucion
 
